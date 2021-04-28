@@ -1,7 +1,7 @@
 ---
 title: "New Content+++"
 date: 2021-04-28T12:02:26+09:00
-draft: true
+draft: false
 ---
 
 ```
