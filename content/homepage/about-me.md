@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About us"
 weight: 3
 header_menu: true
 ---
@@ -11,6 +11,7 @@ header_menu: true
 ##### 会社概要
 
 | 会社名 | 山本企画 合同会社 | 
+|---|---|
 | 設 立 | 2020年2月 |
 | 代 表 | 山本裕之 |
 | 住 所 | 静岡県静岡市駿河区中原303-5 |

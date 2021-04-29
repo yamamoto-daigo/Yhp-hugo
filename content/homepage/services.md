@@ -10,9 +10,9 @@ header_menu: true
 
 ## 土地と建物をうまくつかう。
 
-古くてもいいもの、東京みたいに人はいつもいない。
+都会にはない古くてもいいもの。
 
-でも、そんなところだからある新しい体験。
+そんなところにある新しい体験。
 
 ![Nice picture to make you pay me ;-)](images/sharing.jpg)
 
@@ -22,9 +22,9 @@ header_menu: true
 
 ## 仕事と余暇の時間をやりくりする。
 
-情報が飛び交う仮装世界と、自分たちの住む現実世界。
+情報が飛び交う仮想世界にはない自分たちの住む現実世界。
 
-いまだからできる田舎が主役になるワーケーション。
+いまだからできる田舎が主役になるワーケーションのかたち。
 
 ![Let us get started on a clean slate](images/workcation.jpg)
 
@@ -34,9 +34,9 @@ header_menu: true
 
 ## ローカルだったものをオープンに。
 
-いつもの間にかモノは明日に届く時代。
+いつの間にか、モノは明日に届く時代。
 
-食べる、遊ぶ、休む、友達でつくるコミュニティ。
+食べる、遊ぶ、休む、友達でつくるローカルネットワークのお手伝い。
 
 
 ![Let us get started on a clean slate](images/community.jpg)
