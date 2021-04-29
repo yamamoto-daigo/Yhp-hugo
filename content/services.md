@@ -1,35 +1,78 @@
 ---
-title: "Services"
+title: "Introduction"
 ---
 
-This is a page about the services, which I offer.
+ここで、過ごす。
 
-It carries a lot more detail than what I put on the homepage - I swear!
+ここで。出来ることがある。
 
-You want to know what I can do for you?
+できるようになる。
 
-Well, let me tell ya!
-
----
-
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](../images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+![ourSpace ;-)](../images/spaceOgawa.jpg)
 
 ---
 
-## Chef Consulting
+## workspace
 
-Did you see the picture above? I can show you how to go from
+たまには、オフサイト.  
 
-![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
+（ひとりで、ゆったりした時間の中で仕事ができるイメージを）
 
-to
+この場所を中心に共働ワークスタイルをサポート。
 
-![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
+（情報発信基地、掲示板のイメージ）
 
-in estimated seconds.
+ここでミーティング、ここからミーティング。
+
+（テレビ会議、ホワイトボードセッションのイメージ）
+
+## stay space
+
+ゆっくり、過ごす。
+
+（部屋のイメージ）
+
+近くで休む。
+
+（温泉のイメージ）
+
+自分の時間を過ごす。
+
+（山登り）
+
+（自転車）
+
+（公園）
+
+## cooking space
+
+ここでつくる、ここでつくってもらう。
+
+（キッチンスペースのイメージ）
+
+（食べる場所はオープン、個室）
+
+
+## market place
+
+生産者の直売所。
+
+（野菜の並べられるイメージを）
+
+生産品の出荷場所。
+
+（みそ、はちみつ、自然薯、お茶）
+
+ここだからお得な情報。
+
+## vegetable field
+
+自分たちでつくる、自分たちがつかう、自分たちでまもる。
+
+そのために必要なことを知る。
+
+（田植え、お茶刈り、たけのこ掘り、栗拾い）
+
+情報をもっと身近に。
+
+（コンピュータ、プログラミング、e-Spaorts）
