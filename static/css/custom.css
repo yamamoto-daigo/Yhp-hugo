@@ -3,7 +3,7 @@ body {
   max-height: 100%;
   font-family: "ヒラギノ角ゴ", sans-serif;
   font-size: 2rem;
-  line-height: 1.6em;
+  line-height: 1.6;
   color: #3a4145;
 }
 a.btn {
@@ -33,12 +33,13 @@ a.btn:hover {
   background-color: #898989;
 }
 .post-title {
+  font-size: 4.5rem;
+  font-weight: 800;
+  line-height: 1.7;
   margin-bottom: 4rem;
 }
 .blog-description {
   margin: 0;
-  font-size: 2.5rem;
-  line-height: 1.5em;
   font-weight: 300;
   font-family: "ヒラギノ角ゴ", sans-serif;
   letter-spacing: 0;
@@ -64,15 +65,6 @@ h5,
 h6 {
   font-family: "ヒラギノ角ゴ", sans-serif;
 }
-h1{
-  line-height: 2em;
-  font-weight: 800;
-  margin: 4rem 0;
-}
-h2{
-  line-height: 1.5em;
-  font-weight: 600;
-}
 h3,
 h4,
 h5,
@@ -93,4 +85,41 @@ h6 {
 }
 .site-footer {
   font-family: "ヒラギノ角ゴ", sans-serif;
+}
+h1{
+  font-size: 4.5rem;
+  font-weight: 800;
+  line-height: 1.7;
+  margin-bottom: 4rem;
+}
+h2{
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+}
+h3{
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+h4{
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin-bottom: 1.75rem;
+}
+h5{
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+h6{
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+p, ul, ol {
+  margin: .25rem 0;
+}
+img{
+  margin: 2rem auto 0 !important;
 }

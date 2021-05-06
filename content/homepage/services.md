@@ -4,7 +4,9 @@ weight: 2
 header_menu: true
 ---
 
-いまあるものを最大限つかいきる。
+## いまあるものを最大限つかいきる。
+
+---
 
 # Sharing
 
