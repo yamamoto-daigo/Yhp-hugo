@@ -1,8 +1,8 @@
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "ヒラギノ角ゴ", sans-serif;
-  font-size: 2rem;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
+  font-size: 1.5rem;
   line-height: 1.6;
   color: #3a4145;
 }
@@ -21,7 +21,7 @@ a.btn {
   position: relative;
   margin-top: 2rem;
   cursor: pointer;
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
   text-transform: uppercase;
   font-weight: lighter;
 }
@@ -33,16 +33,24 @@ a.btn:hover {
   background-color: #898989;
 }
 .post-title {
-  font-size: 4.5rem;
-  font-weight: 800;
+  font-family: "objektiv-mk3", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3.5rem;
   line-height: 1.7;
-  margin-bottom: 4rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: .1rem;
+}
+.blog-title {
+  font-family: "objektiv-mk3", sans-serif;
+  font-weight: lighter;
 }
 .blog-description {
   margin: 0;
-  font-weight: 300;
-  font-family: "ヒラギノ角ゴ", sans-serif;
-  letter-spacing: 0;
+  font-family: "dnp-shuei-gothic-kin-std", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2rem;
 }
 header.post-header a{
   display: block;
@@ -57,69 +65,75 @@ header.post-header a::before{
   width: 300px;
   padding-bottom: 4rem;
 }
+hr {
+  border-top: 1px solid #efefef;
+  margin: 4rem 0;
+}
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
 }
 h3,
 h4,
 h5,
 h6 {
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
 }
 .blog-description {
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
 }
 .fixed-nav {
   font-family: "Open Sans Condensed", sans-serif;
 }
 .post-meta {
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
 }
 .pagination {
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
 }
 .site-footer {
-  font-family: "ヒラギノ角ゴ", sans-serif;
+  font-family: "objektiv-mk3","dnp-shuei-gothic-kin-std", sans-serif;
 }
 h1{
-  font-size: 4.5rem;
-  font-weight: 800;
-  line-height: 1.7;
+  font-size: 3rem;
+  font-weight: 600;
   margin-bottom: 4rem;
 }
 h2{
-  font-size: 3.5rem;
-  font-weight: 700;
-  margin-bottom: 3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
 }
 h3{
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 2rem;
 }
 h4{
   font-size: 2.5rem;
-  font-weight: 500;
-  margin-bottom: 1.75rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
 }
 h5{
   font-size: 2rem;
-  font-weight: 400;
+  font-weight: 600;
   margin-bottom: 1.5rem;
 }
 h6{
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 400;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 p, ul, ol {
   margin: .25rem 0;
 }
 img{
-  margin: 2rem auto 0 !important;
+  margin: 3rem auto 0 !important;
+}
+#about-us hr{
+  margin: 2rem 0;
 }
