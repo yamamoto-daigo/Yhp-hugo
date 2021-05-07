@@ -14,30 +14,38 @@ title: "Introduction"
 
 ## workspace
 
-たまには、オフサイト.  
+#### たまには、オフサイト.  
 ![slow-work ;-)](../images/service-img/slowwork.jpeg)
 
 <!-- （ひとりで、ゆったりした時間の中で仕事ができるイメージを） -->
-
-この場所を中心に共働ワークスタイルをサポート。
+---
+#### この場所を中心に共働ワークスタイルをサポート。
 ![board ;-)](../images/service-img/quest.jpeg)
 <!-- （情報発信基地、掲示板のイメージ） -->
 
-ここでミーティング、ここからミーティング。
+---
+
+#### ここでミーティング、ここからミーティング。
 ![white-board ;-)](../images/service-img/whiteboard.jpeg)
 <!-- （テレビ会議、ホワイトボードセッションのイメージ） -->
 
+---
+
 ## stay space
 
-ゆっくり、過ごす。
+#### ゆっくり、過ごす。
 ![room ;-)](../images/service-img/room.jpeg)
 <!-- （部屋のイメージ） -->
 
-近くで休む。
+---
+
+#### 近くで休む。
 ![relax ;-)](../images/service-img/onsen.jpeg)
 <!-- （温泉のイメージ） -->
 
-自分の時間を過ごす。
+---
+
+#### 自分の時間を過ごす。
 ![hiking ;-)](../images/service-img/hiking.jpeg)
 <!-- （山登り） -->
 ![cycling ;-)](../images/service-img/cycling.jpeg)
@@ -45,9 +53,11 @@ title: "Introduction"
 ![park ;-)](../images/service-img/park.jpeg)
 <!-- （公園） -->
 
+---
+
 ## cooking space
 
-ここでつくる、ここでつくってもらう。
+#### ここでつくる、ここでつくってもらう。
 ![kitchen ;-)](../images/service-img/kitchen.jpeg)
 
 
@@ -57,10 +67,11 @@ title: "Introduction"
 
 （食べる場所はオープン、個室） -->
 
+---
 
 ## market place
 
-生産者の直売所。
+#### 生産者の直売所。
 ![vegitable ;-)](../images/service-img/vegitable.jpeg)
 
 <!-- （野菜の並べられるイメージを） -->
@@ -71,6 +82,8 @@ title: "Introduction"
 
 ここだからお得な情報。
 
+---
+
 ## vegetable field
 
 自分たちでつくる、自分たちがつかう、自分たちでまもる。
@@ -80,6 +93,8 @@ title: "Introduction"
 
 <!-- （田植え、お茶刈り、たけのこ掘り、栗拾い） -->
 
-情報をもっと身近に。
+---
+
+#### 情報をもっと身近に。
 ![programing ;-)](../images/service-img/programing.jpeg)
 <!-- （コンピュータ、プログラミング、e-Spaorts） -->
